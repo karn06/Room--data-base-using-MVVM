@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baatu tech demo app</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="something_went_wrong">Something Went Wrong!!</string>
+    <string name="success">Success</string>
+    <string name="fail">Failed</string>
+    <string name="back_online">Back Online</string>
+</resources>
